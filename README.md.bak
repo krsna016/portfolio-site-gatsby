@@ -1,15 +1,4 @@
-# c2-portfolio-site
-
-[![Language: Python](https://img.shields.io/badge/language-Python-blue.svg)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![CI Pipeline](https://github.com/krsna016/c2-portfolio-site/actions/workflows/ci.yml/badge.svg)](https://github.com/krsna016/c2-portfolio-site/actions/workflows/ci.yml)
-[![Security: CodeQL](https://github.com/krsna016/c2-portfolio-site/actions/workflows/codeql.yml/badge.svg)](https://github.com/krsna016/c2-portfolio-site/actions/workflows/codeql.yml)
-
-Professional engineering repository configurations deployed inside your GitHub profile.
-
----
-
-## 📝 Overview & Core Description
+<div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
@@ -96,50 +85,3 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
 | Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
-
----
-
-## 🏛️ System Design & Folder Structure
-```text
-.github/                  # CI/CD pipelines, Dependabot, and Issue/PR schemas
-.editorconfig             # Unified file formatting configuration
-.gitattributes            # Normalization variables for LF line endings
-.gitignore                # Local environment overrides and cache limits
-.pre-commit-config.yaml   # Quality check execution triggers
-LICENSE                   # Permissive open-source MIT License
-Makefile                  # Development workspace orchestrator
-CHANGELOG.md              # Historical version tracking
-CONTRIBUTING.md           # Developer onboarding guidelines
-CODE_OF_CONDUCT.md        # Communication guidelines
-SECURITY.md               # Responsible vulnerability disclosures
-```
-
----
-
-## 🛠️ Tooling & Tech Stack
-- **Primary Environment:** Python runtime.
-- **Workflow Automation:** GitHub Actions CI, Dependabot, and CodeQL.
-- **Standards Checkers:** Git `pre-commit` hook validations.
-
----
-
-## ⚙️ Quickstart & Local Setup
-1. Clone this repository locally:
-   ```bash
-   git clone https://github.com/krsna016/c2-portfolio-site.git
-   cd c2-portfolio-site
-   ```
-2. Trigger the local setup runner:
-   ```bash
-   make help
-   ```
-
----
-
-## 📋 Security & Responsible Disclosure
-For details on disclosing vulnerabilities or hardcoded secrets, refer directly to our [SECURITY.md](SECURITY.md) guidelines.
-
----
-
-## 📜 License
-This repository is licensed under the permissive **MIT License**. For details, see the [LICENSE](LICENSE) file.
