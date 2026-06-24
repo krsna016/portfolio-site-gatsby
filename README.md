@@ -9,7 +9,7 @@ Professional engineering repository configurations deployed inside your GitHub p
 
 ---
 
-## 📝 Overview & Core Description
+## Overview & Core Description
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
@@ -32,7 +32,7 @@ Professional engineering repository configurations deployed inside your GitHub p
 
 ![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
 
-## 🚨 Forking this repo (please read!)
+## Forking this repo (please read!)
 
 Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
 
@@ -44,7 +44,7 @@ Please also note that I did not build this site with the intention of it being a
 
 Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
-## 🛠 Installation & Set Up
+## Installation & Set Up
 
 1. Install the Gatsby CLI
 
@@ -70,7 +70,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    npm start
    ```
 
-## 🚀 Building and Running for Production
+## Building and Running for Production
 
 1. Generate a full static production build
 
@@ -84,7 +84,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    npm run serve
    ```
 
-## 🎨 Color Reference
+## Color Reference
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
@@ -99,7 +99,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
 
 ---
 
-## 🏛️ System Design & Folder Structure
+## System Design & Folder Structure
 ```text
 .github/                  # CI/CD pipelines, Dependabot, and Issue/PR schemas
 .editorconfig             # Unified file formatting configuration
@@ -116,14 +116,14 @@ SECURITY.md               # Responsible vulnerability disclosures
 
 ---
 
-## 🛠️ Tooling & Tech Stack
+## Tooling & Tech Stack
 - **Primary Environment:** Python runtime.
 - **Workflow Automation:** GitHub Actions CI, Dependabot, and CodeQL.
 - **Standards Checkers:** Git `pre-commit` hook validations.
 
 ---
 
-## ⚙️ Quickstart & Local Setup
+## Quickstart & Local Setup
 1. Clone this repository locally:
    ```bash
    git clone https://github.com/krsna016/c2-portfolio-site.git
@@ -136,10 +136,10 @@ SECURITY.md               # Responsible vulnerability disclosures
 
 ---
 
-## 📋 Security & Responsible Disclosure
+## Security & Responsible Disclosure
 For details on disclosing vulnerabilities or hardcoded secrets, refer directly to our [SECURITY.md](SECURITY.md) guidelines.
 
 ---
 
-## 📜 License
+## License
 This repository is licensed under the permissive **MIT License**. For details, see the [LICENSE](LICENSE) file.
